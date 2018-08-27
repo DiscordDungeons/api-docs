@@ -1,10 +1,9 @@
 # Discord Dungeons API Documents
 
-The Discord Dungeons API documents. This is a place holder of what will become. We will first reformat the API documents and then publish it to this repository. [Stay frosty and fork some octocats.](http://api.discorddungeons.me/docs)
+Privacy Policy
+The Discord Dungeons API Privacy Policy can be found at [https://api.discorddungeons.me/Privacy](https://api.discorddungeons.me/Privacy)
 
-
-
-{% api-method method="get" host="" path="yeetus fetus" %}
+{% api-method method="get" host="https://api.discorddungeons.me" path="yeetus fetus" %}
 {% api-method-summary %}
 test  
 {% endapi-method-summary %}
